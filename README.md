@@ -1,9 +1,11 @@
 لقطات الشاشة
+
 <img src="img\img2.png" width="160" />
 <img src="img\img3.png" width="160" />
 <img src="img\img4.png" width="160" />
 <img src="img\img5.png" width="160" />
 <img src="img\img1.png" width="160" />
+
 ​نظام التنقل المزدوج: شاشة رئيسية تتيح الوصول لتكليفين منفصلين عبر Navigator.push.
 
 ​تمرير البيانات المتقدم: نقل بيانات المنتجات (الاسم، الوصف، السعر) ديناميكياً بين الواجهات.
